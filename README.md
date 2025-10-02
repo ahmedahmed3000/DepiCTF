@@ -1,11 +1,6 @@
 # DepiCTF
 NetworkCTF
 
-I cannot directly create or upload a PDF file. However, I can generate the complete, formatted content for your CTF infrastructure plan, which you can easily **copy and paste into any document editor (like Google Docs, Microsoft Word, or LaTeX)** and then save or print as a PDF.
-
-Here is the complete content, structured and ready for your CTF event:
-
----
 
 # CTF Infrastructure Plan: AQUILA Cyber Security Audit
 
