@@ -92,4 +92,3 @@ You only have **3 hours** to run the competition. To ensure you are only billed 
   * **Action:** In the DigitalOcean panel, select all four live Droplets and choose the **Destroy** action.
   * **Result:** Your total running cost will be approximately **$0.17 USD** plus any small charges for the temporary Builder Snapshot.
 
-Do you want to use these specific image examples, or would you like a few more options for the Network A and Network B targets?
